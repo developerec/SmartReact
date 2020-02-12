@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21217c48942e9c9a7b7860506b5db623",
+    "revision": "cb56db763f288679476be41e1121500c",
     "url": "/smartreact/index.html"
   },
   {
