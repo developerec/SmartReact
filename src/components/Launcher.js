@@ -18,14 +18,16 @@ export default class Launcher extends React.Component {
      */
     componentDidMount() {
         SMART.authorize({
-            clientId: "my-client-id",
+            clientId: "894feb34-37f7-41d0-b43e-dd261c9d5e76",
             scope: "launch launch/patient patient/read offline_access",
-            redirectUri: "./app",
-            iss:
-                "https://launch.smarthealthit.org/v/r3/sim/" +
-                "eyJoIjoiMSIsImIiOiJmMDQ2MjkzNi1lYjRiLTRkYT" +
-                "EtYjQ1YS1mYmQ5NmViZjhjY2IiLCJlIjoic21hcnQt" +
-                "UHJhY3RpdGlvbmVyLTcxNjE0NTAyIn0/fhir",
+            // redirectUri: "./app",
+            redirectUri: "https://developerec.github.io/SmartReact/app",
+            iss: "https://fhir-ehr.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca",
+            // iss:
+            //     "https://launch.smarthealthit.org/v/r3/sim/" +
+            //     "eyJoIjoiMSIsImIiOiJmMDQ2MjkzNi1lYjRiLTRkYT" +
+            //     "EtYjQ1YS1mYmQ5NmViZjhjY2IiLCJlIjoic21hcnQt" +
+            //     "UHJhY3RpdGlvbmVyLTcxNjE0NTAyIn0/fhir",
 
             // WARNING: completeInTarget=true is needed to make this work
             // in the codesandbox frame. It is otherwise not needed if the
