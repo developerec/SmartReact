@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/smartreact/static/css/main.d1b05096.chunk.css",
-    "main.js": "/smartreact/static/js/main.39989351.chunk.js",
-    "main.js.map": "/smartreact/static/js/main.39989351.chunk.js.map",
+    "main.js": "/smartreact/static/js/main.d79ad4f0.chunk.js",
+    "main.js.map": "/smartreact/static/js/main.d79ad4f0.chunk.js.map",
     "runtime-main.js": "/smartreact/static/js/runtime-main.a0f5afd0.js",
     "runtime-main.js.map": "/smartreact/static/js/runtime-main.a0f5afd0.js.map",
     "static/js/2.8e1a66e1.chunk.js": "/smartreact/static/js/2.8e1a66e1.chunk.js",
     "static/js/2.8e1a66e1.chunk.js.map": "/smartreact/static/js/2.8e1a66e1.chunk.js.map",
     "index.html": "/smartreact/index.html",
-    "precache-manifest.fc8fb5ee4c4ffd917fc0e588bd9dca66.js": "/smartreact/precache-manifest.fc8fb5ee4c4ffd917fc0e588bd9dca66.js",
+    "precache-manifest.84f37dc35e974cd0246baa28e6a9cd1f.js": "/smartreact/precache-manifest.84f37dc35e974cd0246baa28e6a9cd1f.js",
     "service-worker.js": "/smartreact/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/smartreact/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.8e1a66e1.chunk.js.LICENSE.txt": "/smartreact/static/js/2.8e1a66e1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a0f5afd0.js",
     "static/js/2.8e1a66e1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.39989351.chunk.js"
+    "static/js/main.d79ad4f0.chunk.js"
   ]
 }
